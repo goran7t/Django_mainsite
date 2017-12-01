@@ -1,2 +1,2 @@
 #Django_mainsite
-Tutorial from eduonix.com adopted to Python 3
+Tutorial from eduonix.com adjusted for Python 3
